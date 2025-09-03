@@ -2,9 +2,9 @@
 
 
 
-This repository contains a series of Power BI projects that transform raw water services data from \*\*Maji Ndogo\*\* into actionable insights.  
+This repository contains a series of \*\*Power BI projects\*\* transforming raw water services data from \*\*Maji Ndogo\*\* into actionable insights.  
 
-The work is divided into four phases, each building on the previous one: from exploring data, to modeling, to storytelling, and finally to ensuring transparency.
+The work is divided into four phases: exploring data, modeling, storytelling, and ensuring transparency.
 
 
 
@@ -22,11 +22,23 @@ The work is divided into four phases, each building on the previous one: from ex
 
 \- \*\*Highlights:\*\* Identifying contamination, queues, and service challenges.  
 
-\- 📄 \[PDF Report](./pdfs/Project1\_MajiNdogo.pdf)  
+\- 📄 \[PDF Report](./Part\_1.pdf)  
 
-\- 📊 \[Power BI File](./files/Project1.pbix)  
+\- 📊 \[Power BI File](./Part1.pbix)  
 
-\- 🖼️ \[Screenshots](./screenshots/Project1/)
+
+
+\*\*Screenshots:\*\*
+
+
+
+| Dashboard | Description |
+
+|-----------|-------------|
+
+| !\[Screenshot1](./Screenshots/Screenshot%20(1).png) | Example water service overview |
+
+| !\[Screenshot2](./Screenshots/Screenshot%20(2).png) | Queue analysis |
 
 
 
@@ -40,11 +52,23 @@ The work is divided into four phases, each building on the previous one: from ex
 
 \- \*\*Highlights:\*\* Queue visualizations, pollution mapping, and linking crime with water data.  
 
-\- 📄 \[PDF Report](./pdfs/Project2\_MajiNdogo.pdf)  
+\- 📄 \[PDF Report](./Part\_2.pdf)  
 
-\- 📊 \[Power BI File](./files/Project2.pbix)  
+\- 📊 \[Power BI File](./Part\_two\_project.pbix)  
 
-\- 🖼️ \[Screenshots](./screenshots/Project2/)
+
+
+\*\*Screenshots:\*\*
+
+
+
+| Dashboard | Description |
+
+|-----------|-------------|
+
+| !\[Screenshot10](./Screenshots/Screenshot%20(10).png) | Pollution mapping |
+
+| !\[Screenshot11](./Screenshots/Screenshot%20(11).png) | Multi-table model visualization |
 
 
 
@@ -58,11 +82,23 @@ The work is divided into four phases, each building on the previous one: from ex
 
 \- \*\*Highlights:\*\* National and provincial dashboards tailored to decision-makers.  
 
-\- 📄 \[PDF Report](./pdfs/Project3\_MajiNdogo.pdf)  
+\- 📄 \[PDF Report](./Part\_3.pdf)  
 
-\- 📊 \[Power BI File](./files/Project3.pbix)  
+\- 📊 \[Power BI File](./Part\_three\_project.pbix)  
 
-\- 🖼️ \[Screenshots](./screenshots/Project3/)
+
+
+\*\*Screenshots:\*\*
+
+
+
+| Dashboard | Description |
+
+|-----------|-------------|
+
+| !\[Screenshot12](./Screenshots/Screenshot%20(12).png) | Provincial dashboard |
+
+| !\[Screenshot13](./Screenshots/Screenshot%20(13).png) | National dashboard overview |
 
 
 
@@ -76,11 +112,23 @@ The work is divided into four phases, each building on the previous one: from ex
 
 \- \*\*Highlights:\*\* Public-facing dashboards tracking spending, progress, and outcomes.  
 
-\- 📄 \[PDF Report](./pdfs/Project4\_MajiNdogo.pdf)  
+\- 📄 \[PDF Report](./Part\_4.pdf)  
 
-\- 📊 \[Power BI File](./files/Project4.pbix)  
+\- 📊 \[Power BI File](./Public\_dashboard.pbix)  
 
-\- 🖼️ \[Screenshots](./screenshots/Project4/)
+
+
+\*\*Screenshots:\*\*
+
+
+
+| Dashboard | Description |
+
+|-----------|-------------|
+
+| !\[Screenshot14](./Screenshots/Screenshot%20(14).png) | Fund tracking overview |
+
+| !\[Screenshot15](./Screenshots/Screenshot%20(15).png) | Spending progress dashboard |
 
 
 
@@ -90,13 +138,13 @@ The work is divided into four phases, each building on the previous one: from ex
 
 \## 🔑 Key Skills Demonstrated
 
-\- Power BI data modeling (relationships, bridging tables, transformations).  
+\- Power BI data modeling (relationships, bridging tables, transformations)  
 
-\- Designing dashboards for storytelling and stakeholder needs.  
+\- Designing dashboards for storytelling and stakeholder needs  
 
-\- Linking multi-source datasets (survey, crime, water quality, expenditure).  
+\- Linking multi-source datasets (survey, crime, water quality, expenditure)  
 
-\- Communicating insights with clarity and transparency.  
+\- Communicating insights with clarity and transparency  
 
 
 
@@ -106,11 +154,11 @@ The work is divided into four phases, each building on the previous one: from ex
 
 \## 📌 How to View
 
-1\. Open the `.pbix` files in \*\*Power BI Desktop\*\*.  
+1\. Open the `.pbix` files in \*\*Power BI Desktop\*\*  
 
-2\. Explore the \*\*dashboards and reports\*\*.  
+2\. Explore the \*\*dashboards and reports\*\*  
 
-3\. Refer to the PDF documents for project write-ups and context.  
+3\. Refer to the PDF documents for project write-ups and context  
 
 
 
@@ -120,7 +168,7 @@ The work is divided into four phases, each building on the previous one: from ex
 
 ✍️ Author: \*\*Simangaliso Sangweni\*\*  
 
-📅 Year: 2023–2025  
+📅 Year: 2024–2025
 
 
 
