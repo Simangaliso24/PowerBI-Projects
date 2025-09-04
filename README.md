@@ -17,7 +17,7 @@ The work is divided into four phases: exploring data, modeling, storytelling, an
 
 | Dashboard | Description |
 |-----------|-------------|
-| ![Screenshot1](./Screenshots/Screenshot%20(1).png) | Example water service overview |
+| ![Screenshot1](./Screenshots/Screenshot%20(5).png) | Example water service overview |
 | ![Screenshot2](./Screenshots/Screenshot%20(2).png) | Queue analysis |
 
 ---
