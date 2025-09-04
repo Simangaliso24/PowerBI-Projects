@@ -15,10 +15,10 @@ The work is divided into four phases: exploring data, modeling, storytelling, an
 
 **Screenshots:**
 
-| Dashboard | Description |
-|-----------|-------------|
-| ![Screenshot1](./Screenshots/Screenshot%20(5).png) | Example water service overview |
-| ![Screenshot2](./Screenshots/Screenshot%20(2).png) | Queue analysis |
+| Dashboard |
+|-----------|
+| ![Screenshot1](./Screenshots/Screenshot%20(5).png) |
+| ![Screenshot2](./Screenshots/Screenshot%20(2).png) | 
 
 ---
 
@@ -30,10 +30,12 @@ The work is divided into four phases: exploring data, modeling, storytelling, an
 
 **Screenshots:**
 
-| Dashboard | Description |
-|-----------|-------------|
-| ![Screenshot10](./Screenshots/Screenshot%20(10).png) | Pollution mapping |
-| ![Screenshot11](./Screenshots/Screenshot%20(11).png) | Multi-table model visualization |
+| Dashboard |
+|-----------|
+| ![Screenshot10](./Screenshots/Screenshot%20(1).png) | 
+| ![Screenshot11](./Screenshots/Screenshot%20(2).png) | 
+| ![Screenshot11](./Screenshots/Screenshot%20(3).png) | 
+| ![Screenshot11](./Screenshots/Screenshot%20(4).png) |
 
 ---
 
@@ -45,10 +47,19 @@ The work is divided into four phases: exploring data, modeling, storytelling, an
 
 **Screenshots:**
 
-| Dashboard | Description |
-|-----------|-------------|
-| ![Screenshot12](./Screenshots/Screenshot%20(12).png) | Provincial dashboard |
-| ![Screenshot13](./Screenshots/Screenshot%20(13).png) | National dashboard overview |
+| Dashboard |
+|-----------|
+| ![Screenshot12](./Screenshots/Screenshot%20(6).png) | 
+|
+| ![Screenshot13](./Screenshots/Screenshot%20(7).png) | 
+| ![Screenshot13](./Screenshots/Screenshot%20(8).png) |
+| ![Screenshot13](./Screenshots/Screenshot%20(9).png) |
+| ![Screenshot13](./Screenshots/Screenshot%20(10).png) |
+| ![Screenshot13](./Screenshots/Screenshot%20(11).png) | 
+| ![Screenshot13](./Screenshots/Screenshot%20(12).png) |
+| ![Screenshot13](./Screenshots/Screenshot%20(13).png) |
+| ![Screenshot13](./Screenshots/Screenshot%20(14).png) |
+| ![Screenshot13](./Screenshots/Screenshot%20(15).png) |
 
 ---
 
@@ -60,10 +71,11 @@ The work is divided into four phases: exploring data, modeling, storytelling, an
 
 **Screenshots:**
 
-| Dashboard | Description |
-|-----------|-------------|
-| ![Screenshot14](./Screenshots/Screenshot%20(14).png) | Fund tracking overview |
-| ![Screenshot15](./Screenshots/Screenshot%20(15).png) | Spending progress dashboard |
+| Dashboard |
+|-----------|
+| ![Screenshot14](./Screenshots/Screenshot%20(16).png) |
+| ![Screenshot15](./Screenshots/Screenshot%20(18).png) |
+| ![Screenshot15](./Screenshots/Screenshot%20(18).png) |
 
 ---
 
