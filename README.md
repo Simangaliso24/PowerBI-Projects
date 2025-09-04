@@ -32,10 +32,8 @@ The work is divided into four phases: exploring data, modeling, storytelling, an
 
 | Dashboard |
 |-----------|
-| ![Screenshot10](./Screenshots/Screenshot%20(1).png) | 
-| ![Screenshot11](./Screenshots/Screenshot%20(2).png) | 
-| ![Screenshot11](./Screenshots/Screenshot%20(3).png) | 
-| ![Screenshot11](./Screenshots/Screenshot%20(4).png) |
+| ![Screenshot10](./Screenshots/Screenshot%20(1).png) | ![Screenshot11](./Screenshots/Screenshot%20(2).png) | 
+| ![Screenshot11](./Screenshots/Screenshot%20(3).png) | ![Screenshot11](./Screenshots/Screenshot%20(4).png) |
 
 ---
 
@@ -49,17 +47,11 @@ The work is divided into four phases: exploring data, modeling, storytelling, an
 
 | Dashboard |
 |-----------|
-| ![Screenshot12](./Screenshots/Screenshot%20(6).png) | 
-|
-| ![Screenshot13](./Screenshots/Screenshot%20(7).png) | 
-| ![Screenshot13](./Screenshots/Screenshot%20(8).png) |
-| ![Screenshot13](./Screenshots/Screenshot%20(9).png) |
-| ![Screenshot13](./Screenshots/Screenshot%20(10).png) |
-| ![Screenshot13](./Screenshots/Screenshot%20(11).png) | 
-| ![Screenshot13](./Screenshots/Screenshot%20(12).png) |
-| ![Screenshot13](./Screenshots/Screenshot%20(13).png) |
-| ![Screenshot13](./Screenshots/Screenshot%20(14).png) |
-| ![Screenshot13](./Screenshots/Screenshot%20(15).png) |
+| ![Screenshot12](./Screenshots/Screenshot%20(6).png) | ![Screenshot13](./Screenshots/Screenshot%20(7).png) | 
+| ![Screenshot13](./Screenshots/Screenshot%20(8).png) | ![Screenshot13](./Screenshots/Screenshot%20(9).png) |
+| ![Screenshot13](./Screenshots/Screenshot%20(10).png) | ![Screenshot13](./Screenshots/Screenshot%20(11).png) | 
+| ![Screenshot13](./Screenshots/Screenshot%20(12).png) | ![Screenshot13](./Screenshots/Screenshot%20(13).png) |
+| ![Screenshot13](./Screenshots/Screenshot%20(14).png) | ![Screenshot13](./Screenshots/Screenshot%20(15).png) |
 
 ---
 
@@ -73,8 +65,7 @@ The work is divided into four phases: exploring data, modeling, storytelling, an
 
 | Dashboard |
 |-----------|
-| ![Screenshot14](./Screenshots/Screenshot%20(16).png) |
-| ![Screenshot15](./Screenshots/Screenshot%20(18).png) |
+| ![Screenshot14](./Screenshots/Screenshot%20(16).png) | ![Screenshot15](./Screenshots/Screenshot%20(18).png) |
 | ![Screenshot15](./Screenshots/Screenshot%20(18).png) |
 
 ---
@@ -95,4 +86,4 @@ The work is divided into four phases: exploring data, modeling, storytelling, an
 ---
 
 ✍️ Author: **Simangaliso Sangweni**  
-📅 Year: 2023–2025
+📅 Year: 2024–2025
