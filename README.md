@@ -15,10 +15,9 @@ The work is divided into four phases: exploring data, modeling, storytelling, an
 
 **Screenshots:**
 
-| Dashboard |
-|-----------|
-| ![Screenshot1](./Screenshots/Screenshot%20(5).png) |
-| ![Screenshot2](./Screenshots/Screenshot%20(2).png) | 
+| Dashboard |averages   |
+|-----------|-----------|
+| ![Screenshot1](./Screenshots/Screenshot%20(5).png) | ![Screenshot2](./Screenshots/Screenshot%20(2).png) | 
 
 ---
 
