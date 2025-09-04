@@ -29,8 +29,8 @@ The work is divided into four phases: exploring data, modeling, storytelling, an
 
 **Screenshots:**
 
-| Dashboard |
-|-----------|
+| Dashboard | visuals   |
+|-----------|-----------|
 | ![Screenshot10](./Screenshots/Screenshot%20(1).png) | ![Screenshot11](./Screenshots/Screenshot%20(2).png) | 
 | ![Screenshot11](./Screenshots/Screenshot%20(3).png) | ![Screenshot11](./Screenshots/Screenshot%20(4).png) |
 
@@ -44,8 +44,8 @@ The work is divided into four phases: exploring data, modeling, storytelling, an
 
 **Screenshots:**
 
-| Dashboard |
-|-----------|
+| Dashboard | Averages  |
+|-----------|-----------|
 | ![Screenshot12](./Screenshots/Screenshot%20(6).png) | ![Screenshot13](./Screenshots/Screenshot%20(7).png) | 
 | ![Screenshot13](./Screenshots/Screenshot%20(8).png) | ![Screenshot13](./Screenshots/Screenshot%20(9).png) |
 | ![Screenshot13](./Screenshots/Screenshot%20(10).png) | ![Screenshot13](./Screenshots/Screenshot%20(11).png) | 
@@ -62,8 +62,8 @@ The work is divided into four phases: exploring data, modeling, storytelling, an
 
 **Screenshots:**
 
-| Dashboard |
-|-----------|
+| Dashboard | visualisations |
+|-----------|-----------|
 | ![Screenshot14](./Screenshots/Screenshot%20(16).png) | ![Screenshot15](./Screenshots/Screenshot%20(18).png) |
 | ![Screenshot15](./Screenshots/Screenshot%20(18).png) |
 
